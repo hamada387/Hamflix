@@ -3,8 +3,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
 :root {
-    --darkerGradientPoint: #111827;
-    --darkerGradientPointAlpha: rgba(17, 24, 39, .85);
+    --darkerGradientPoint: rgb(38, 18, 18);
+    --darkerGradientPointAlpha: rgba(37, 24, 24, .85);
     --lighterGradientPoint: #1d2635;
     --borderColor: rgb(71, 80, 92);
     --headerColor: rgba(30, 40, 54, .8);
@@ -20,7 +20,7 @@
     --textColor: rgb(209, 213, 219);
     --dimTextColor: rgb(156, 163, 175);
     --activeColorAlpha: rgba(255, 234, 143, 0.4);
-    --activeColor: rgb(90, 153, 82);
+    --activeColor: rgb(153, 82, 82);
     --tableBodyColor: rgb(31 41 55 / 1);
     --backgroundGradient: linear-gradient(0deg, var(--darkerGradientPoint) 35%, var(--lighterGradientPoint));
     --cardBackgroundGradient: linear-gradient(0deg, var(--darkerGradientPoint), var(--lighterGradientPoint) 25%);
