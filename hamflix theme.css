@@ -19,8 +19,8 @@
     --highlightOutlineColor: rgb(37, 99, 235);
     --textColor: rgb(209, 213, 219);
     --dimTextColor: rgb(156, 163, 175);
-    --activeColorAlpha: rgb(201 143 255 / 40%);
-    --activeColor: rgb(119 82 153);
+    --activeColorAlpha: rgba(255, 234, 143, 0.4);
+    --activeColor: rgb(90, 153, 82);
     --tableBodyColor: rgb(31 41 55 / 1);
     --backgroundGradient: linear-gradient(0deg, var(--darkerGradientPoint) 35%, var(--lighterGradientPoint));
     --cardBackgroundGradient: linear-gradient(0deg, var(--darkerGradientPoint), var(--lighterGradientPoint) 25%);
